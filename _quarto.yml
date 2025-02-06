@@ -1,5 +1,7 @@
 project:
   type: website
+  output-dir: docs
+  
 
 website:
   title: "Gaby-v090.github.io"
