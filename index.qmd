@@ -1,11 +1,8 @@
 ---
-title: "Gaby-v090.github.io"
+title: "Gabriela's Website"
+format: html 
 ---
 
-This is a Quarto website.
+![](ESS%20440%20picture.jpg){width="268"}
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+I want to be able to work with communities in my career especially Indigenous communities. I want to be able to advocate and bring change to environmental issues and challenge current policies. Learning that sustainable development means meeting the needs of the present generation without compromising the ability of future generations to meet their own shifted my approach to environmental problems to be more anthropogenic and being involved with communities is the most efficient way to battle environmental problems. When I first started this major, I was hoping to be working in the middle of nowhere away from people and just be in nature, but I’ve come to realize that there are more aspects of this issue than just managing the health of forests. Having big outlooks to what I want to do with my career does come with some uncertainties. One thing that I’m uncertain about is even being able to get a job after I’m done with my degree. I don’t even know where to start. I’ve attempted to join volunteer groups, but positions are always full and any attempt I’ve made to get an internship has been met with rejection letters. I want to be able to travel to different countries to get hands-on experience and learn from professionals because that’s the best way I can learn. The current political climate that we are living through has also made me uncertain about how much impact I can make in the short span of time we have, but it makes my drive stronger and more willing to take on these uncertainties. As my mom always told me everything takes time, nothing can happen overnight. 

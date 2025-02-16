@@ -4,19 +4,27 @@ project:
   
 
 website:
-  title: "Gaby-v090.github.io"
+  title: "Gabriela's Website"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
-      -Resume.qmd
+        - text: Home
+          href: index.qmd
+        
+        - text: Projects 
+          href: about.qmd
+       
+        - text: Resume
+          href: Resume.qmd
+        
 
 format:
   html:
     theme: cosmo
     css: styles.css
     toc: true
+    toc-depth: 3
+    toc-location: left
+    
 
 editor: visual
 
