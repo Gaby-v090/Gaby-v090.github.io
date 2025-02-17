@@ -1,10 +1,15 @@
 ---
-title: "About"
+title: "Projects"
 format: html 
 ---
 
-About this site
 
-```{r}
-1 + 1
-```
+In the Spring of 2025 I took a class Quantative Reasoning class based in R. I wrote some code, and did some cool data science. Here is a collection of links! 
+
+## [Building a project website]()
+
+- In this assignment we built a website that displays my projects as well as my resume and what I want to accomplish in the future.
+- I learned how to upload files onto a website as pdf's, and customize it to add personality to my work.
+- I'm able to upload my work onto github as well. 
+
+
